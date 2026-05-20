@@ -10,7 +10,5 @@
 
 ## 執行說明
 1. 確認電腦已安裝 Visual Studio (支援 .NET Framework 4.7.2 或以上)。
-2. Clone 此專案至本地端：
-   ```bash
-   git clone [https://github.com/你的帳號/你的專案名稱.git](https://github.com/你的帳號/你的專案名稱.git)
+
 <img width="679" height="451" alt="image" src="https://github.com/user-attachments/assets/88e13c01-c267-4544-9058-1321da38ca92" />
